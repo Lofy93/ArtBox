@@ -9,5 +9,5 @@ for (let i = 0; i < x; i++) {
 
 for (let i = 0; i < x; i++) {
     Pixels[i].onclick = function () {
-        Pixels[i].style.background = Color.value;
+    Pixels[i].style.background = Color.value;
 }};
