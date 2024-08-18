@@ -1,6 +1,6 @@
 let Pixels = document.getElementsByClassName("Pixels");
-let Box = document.getElementById("parent");
-let Color = document.querySelector('.color');
+let Box = document.getElementById("Box");
+let Color = document.querySelector('.Color');
 let x = 2500;
 
 for (let i = 0; i < x; i++) {
